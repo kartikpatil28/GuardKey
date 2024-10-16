@@ -1,0 +1,52 @@
+Step1: Run the following Command
+
+``` 
+npm install -D tailwindcss
+npx tailwindcss init
+
+```
+
+
+Step2: Copy the following and paste it into the input.css file which you have created in the src folder
+
+```
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+```
+
+
+Step3: Initialize the content in the tailwindcss.config.js
+
+```
+content: ["./src/**/*.{html,js}"]
+
+```
+
+Step4: Run the following Command
+
+```
+npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+
+```
+
+Step5: Copy and Paste the following code and link the css file to the html file
+
+```
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="./output.css" rel="stylesheet">
+</head>
+<body>
+  <h1 class="text-3xl font-bold underline">
+    Hello world!
+  </h1>
+</body>
+</html>
+
+
+```
