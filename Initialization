@@ -1,11 +1,10 @@
 Step1: Run the following Command
 
-``` 
+```
 npm install -D tailwindcss
 npx tailwindcss init
 
 ```
-
 
 Step2: Copy the following and paste it into the input.css file which you have created in the src folder
 
@@ -15,7 +14,6 @@ Step2: Copy the following and paste it into the input.css file which you have cr
 @tailwind utilities;
 
 ```
-
 
 Step3: Initialize the content in the tailwindcss.config.js
 
@@ -27,7 +25,7 @@ content: ["./src/**/*.{html,js}"]
 Step4: Run the following Command
 
 ```
-npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+npx tailwindcss -i ./Src/input.css -o ./dist/output.css --watch
 
 ```
 
