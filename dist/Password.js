@@ -27,9 +27,9 @@ function strengthCheck(password) {
 
 
 
-document.getElementById('password').addEventListener('click', () => {
+document.getElementById('Password').addEventListener('click', () => {
     const password = document.getElementById('password').value;
-    document.getElementById('submit').addEventListener('click', () => {
+    document.getElementById('Submit').addEventListener('click', () => {
         const strengthText = document.getElementById('strength');
         strengthText.innerText = strengthCheck(password);
         

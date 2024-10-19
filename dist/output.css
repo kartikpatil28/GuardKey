@@ -562,6 +562,14 @@ video {
   margin: 1.25rem;
 }
 
+.m-4 {
+  margin: 1rem;
+}
+
+.m-8 {
+  margin: 2rem;
+}
+
 .mb-5 {
   margin-bottom: 1.25rem;
 }
