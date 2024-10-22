@@ -10,7 +10,7 @@ I'm a passionate developer with a love for Web Development and AIML. I enjoy wor
 
 ## Projects
 ### Project 1: 
-- # SecurePass Validator 🚀
+- # GuardKey 🚀
 
 ## Overview
 TheSecurePass Validator is an initiative aimed at enhancing online security by allowing users to verify the strength and uniqueness of their passwords. Given the increasing incidents of data breaches, ensuring that a password has not been compromised is more crucial than ever.
@@ -41,6 +41,10 @@ Server (Node.js/Flask)
 External API (e.g., Have I Been Pwned)
 
 ```
+
+
+##Remarks
+The project is not completed yet. As I am still learning the framework and will update it timely. If you want liked the project and want to contribute to it you can please raise an issue and fork it. 
 
 
 
