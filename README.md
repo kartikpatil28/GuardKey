@@ -13,7 +13,7 @@ I'm a passionate developer with a love for Web Development and AIML. I enjoy wor
 - # GuardKey 🚀
 
 ## Overview
-TheSecurePass Validator is an initiative aimed at enhancing online security by allowing users to verify the strength and uniqueness of their passwords. Given the increasing incidents of data breaches, ensuring that a password has not been compromised is more crucial than ever.
+GuardKey is an initiative aimed at enhancing online security by allowing users to verify the strength and uniqueness of their passwords. Given the increasing incidents of data breaches, ensuring that a password has not been compromised is more crucial than ever.
 
 ## Motivation
 Data breaches have become increasingly common, with millions of passwords being leaked every year. According to a [2023 report by Verizon](https://enterprise.verizon.com/resources/reports/dbir/), 81% of hacking-related breaches leveraged stolen or weak passwords. This project is designed to help mitigate such risks by providing an easy-to-use platform to check password safety.
@@ -53,6 +53,7 @@ The project is not yet completed. As I am still learning the framework and will 
 ## Contact
 - 📧 kartikpatilwork24@gmail.com
 - 💼 https://shorturl.at/56l5L
+- ✖  https://x.com/KartikPatil111
 
 - Profile Name: kartikpatil1
 
