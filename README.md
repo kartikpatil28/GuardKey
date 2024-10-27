@@ -42,6 +42,9 @@ External API (e.g., Have I Been Pwned)
 
 ```
 
+<img src="![Uploading Screenshot 2024-10-27 065712.png…]()
+">
+
 
 ## Remarks
 The project is not yet completed. As I am still learning the framework and will update it timely. If you liked the project and want to contribute to it you can please raise an issue and fork it. 
