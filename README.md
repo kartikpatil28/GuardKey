@@ -42,8 +42,8 @@ External API (e.g., Have I Been Pwned)
 
 ```
 
-<img src="![Uploading Screenshot 2024-10-27 065712.png…]()
-">
+![Screenshot 2024-10-27 065712](https://github.com/user-attachments/assets/ee4284fd-6e2b-4635-9fdd-c479e4849807)
+
 
 
 ## Remarks
